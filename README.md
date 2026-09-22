@@ -31,7 +31,7 @@ I've worked with datasets containing **billions of records**, Machine Learning, 
 
 **Engineering & Infrastructure**
 
-`Kafka` · `FastAPI` · `Docker` · `Git` · `GitHub Actions` · `Linux`
+`Kafka` · `FastAPI` · `Docker` · `Git` · `CD/CI` · `Linux`
 
 ## 🚀 Featured Projects
 
