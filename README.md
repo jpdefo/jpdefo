@@ -23,7 +23,7 @@ I've worked with datasets containing **billions of records**, Machine Learning, 
 
 **AI & Machine Learning**
 
-`Machine Learning` · `AI Agents` · `LangGraph` · `LangChain` ·  `GitHub Copilot`
+`Machine Learning` · `AI Agents` · `LangGraph` · `LangChain`
 
 **Observability**
 
