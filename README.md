@@ -48,4 +48,3 @@ I'm open to remote and international opportunities in Data Science, AI, Software
 ## 📫 Connect with me
 
 💼 [LinkedIn](https://www.linkedin.com/in/joaopedrofo/)
-🐙 [GitHub](https://github.com/jpdefo)
