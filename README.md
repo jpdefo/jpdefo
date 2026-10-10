@@ -33,18 +33,6 @@ I've worked with datasets containing **billions of records**, Machine Learning, 
 
 `Kafka` · `FastAPI` · `Docker` · `Git` · `CD/CI` · `Linux`
 
-## 🚀 Featured Projects
-
-### 🔭 OpenTelemetry VS Code Extension
-
-A VS Code extension integrated with a **GitHub Copilot agent** to assist with OpenTelemetry auto-instrumentation directly from the development environment.
-
-The project also integrates **Grafana through MCP**, allowing the agent to interact with observability resources and use contextual information to support configuration and analysis.
-
-### 🎮 Akatsuki Group
-
-A personal project focused on **automation, data integration, and dashboards**, combining information from different gaming platforms and services.
-
 ## 🎯 Interests
 
 I'm particularly interested in the intersection between:
@@ -52,6 +40,10 @@ I'm particularly interested in the intersection between:
 **Data → AI → Automation → Observability**
 
 I like building things that don't just process information, but can **understand context, make decisions, and automate actions**.
+
+## 🌍 Open to Opportunities
+
+I'm open to remote and international opportunities in Data Science, AI, Software Engineering, and Automation. I'm particularly interested in roles where I can solve complex problems, build impactful solutions, and continue learning.
 
 ## 📫 Connect with me
 
