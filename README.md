@@ -1,50 +1,31 @@
-# Hi, I'm João Pedro 👋
+# João Pedro de Faria
 
-**Data Scientist @ Banco do Brasil** 🇧🇷
+**Python backend development, AI agents and observability.**
 
-I work with **Data Science, Artificial Intelligence, Big Data, Observability, and Automation**, building solutions that combine data, software, and AI to solve real-world problems.
+I'm a Data Scientist at Banco do Brasil, working in an AIOps team. I build backend services and integrations that connect AI agents with tools, data and operational systems.
 
-I've worked with datasets containing **billions of records**, Machine Learning, distributed data processing, AI agents, and observability platforms. I also enjoy turning repetitive or complex workflows into automated tools.
+My work includes infrastructure around the Model Context Protocol (MCP), from servers to proxies and gateways, as well as agent orchestration and automated workflows. Observability is a recurring part of that work. I also contribute fixes and features to open-source developer tools.
 
-## 🔭 What I'm working on
+[LinkedIn](https://www.linkedin.com/in/joaopedrofo/)
 
-* 🤖 **AI Agents** and agentic workflows
-* 📊 **Big Data & Machine Learning**
-* 🔭 **Observability & OpenTelemetry**
-* 🔌 **MCP (Model Context Protocol)** and AI tool integrations
-* ⚙️ **Automation** and developer tooling
-* 🧩 **Data-driven solutions** for complex systems
+## Open source
 
-## 🛠️ Technologies
+I've contributed to [Sentry JavaScript](https://github.com/getsentry/sentry-javascript), [Grafana Tempo](https://github.com/grafana/tempo) and [MCP Grafana](https://github.com/grafana/mcp-grafana).
 
-**Languages & Data**
+## Project
 
-`Python` · `Java` · `SQL` · `Pandas` · `PySpark`
+**[Akatsuki Group Monitor](https://github.com/jpdefo/akatsuki-group)** · [Live demo](https://jpdefo.github.io/akatsuki-group/)
 
-**AI & Machine Learning**
+A Python and JavaScript dashboard for managing a giveaway community. It combines data normalization, automated refresh jobs, activity tracking and manual corrections that preserve synced source data. The public version is deployed through GitHub Pages.
 
-`Machine Learning` · `AI Agents` · `LangGraph` · `LangChain`
+## Technical focus
 
-**Observability**
+- **Backend and data:** Python, FastAPI, SQL, PySpark and Pandas.
+- **AI systems:** MCP servers and infrastructure, AI agents, LangGraph, LangChain and workflow orchestration.
+- **Observability and tooling:** OpenTelemetry, Grafana, Go, Java and TypeScript.
 
-`OpenTelemetry` · `Grafana` · `MCP` · `Control-M`
+## Open to opportunities
 
-**Engineering & Infrastructure**
+I'm open to remote and international opportunities in software engineering, applied AI and data. I'm particularly interested in roles where I can solve complex problems, build useful systems and continue learning.
 
-`Kafka` · `FastAPI` · `Docker` · `Git` · `CD/CI` · `Linux`
-
-## 🎯 Interests
-
-I'm particularly interested in the intersection between:
-
-**Data → AI → Automation → Observability**
-
-I like building things that don't just process information, but can **understand context, make decisions, and automate actions**.
-
-## 🌍 Open to Opportunities
-
-I'm open to remote and international opportunities in Data Science, AI, Software Engineering, and Automation. I'm particularly interested in roles where I can solve complex problems, build impactful solutions, and continue learning.
-
-## 📫 Connect with me
-
-💼 [LinkedIn](https://www.linkedin.com/in/joaopedrofo/)
+Contact me on [LinkedIn](https://www.linkedin.com/in/joaopedrofo/).
