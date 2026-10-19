@@ -1,4 +1,4 @@
-# João Pedro de Faria
+# João Pedro de Faria 👋
 
 **Python backends · AI agents · Observability**
 
@@ -19,7 +19,7 @@ Most of my professional development work is maintained under a company-managed G
 
 I've contributed fixes and features to [Sentry JavaScript](https://github.com/getsentry/sentry-javascript), [Grafana Tempo](https://github.com/grafana/tempo) and [MCP Grafana](https://github.com/grafana/mcp-grafana).
 
-## Open to opportunities
+## 💼 Open to opportunities
 
 I'm open to remote and international opportunities in software engineering, applied AI and data.
 
