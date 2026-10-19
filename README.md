@@ -21,6 +21,6 @@ I've contributed fixes and features to [Sentry JavaScript](https://github.com/ge
 
 ## 💼 Open to opportunities
 
-I'm open to remote and international opportunities in software engineering, applied AI and data.
+I'm open to remote opportunities and international roles with relocation in software engineering, applied AI and data.
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/joaopedrofo/).
