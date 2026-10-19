@@ -2,7 +2,8 @@
 
 **Python backends · AI agents · Observability**
 
-I'm a Data Scientist on the AIOps team at Banco do Brasil. I build Python backend services and integrations that connect AI agents with data, tools and operational systems.
+I'm a Data Scientist on the AIOps team at Banco do Brasil. I build Python backend services and integrations that connect AI agents with data, tools and operational systems. 
+I have Freelance experience with companies from Canada and UK.
 
 I develop Model Context Protocol (MCP) servers, proxies and gateways, alongside agent orchestration and automated workflows.
 
