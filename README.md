@@ -8,14 +8,14 @@ I develop Model Context Protocol (MCP) servers, proxies and gateways, alongside 
 
 Most of my professional development work is maintained under a company-managed GitHub account.
 
-## Technical focus
+## 🛠️ Technical focus
 
 - **Backend and data:** Python, FastAPI, SQL, PySpark and Pandas.
 - **AI and integrations:** MCP, LangGraph, LangChain and agent workflows.
 - **Observability:** OpenTelemetry and Grafana.
 - **Other languages:** Go, Java and TypeScript.
 
-## Open source
+## 🌱 Open source
 
 I've contributed fixes and features to [Sentry JavaScript](https://github.com/getsentry/sentry-javascript), [Grafana Tempo](https://github.com/grafana/tempo) and [MCP Grafana](https://github.com/grafana/mcp-grafana).
 
